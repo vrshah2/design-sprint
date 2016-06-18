@@ -23,13 +23,31 @@ reducing those risks and move forward confident we are heading in the right
 direction. Also, by gather info we will empower our decision making abilities
 and eliminate the need for guesswork later on.
 
-#### The Problem Statement *(10min)*
+#### [Problem Statement](../Exercises/problem-statement.md) *(20min)*
 
-#### Introduce Assumptions Board *(10min)*
+Identifying the problem will help to determine if there is a problem, if that
+problem is solvable, and how to solve that problem. This step will be the first
+step to answering this question: What is this product, and is it useful?
 
-#### Introduce Back-burner Board *(10min)*
+#### [Start an Assumptions Board](../Exercises/assumptions.md) *(30min)*
 
-#### Pitch Practice *(15min)*
+Throughout the day and rest of the week we will ask questions we don’t have
+answers to and identify assumptions we are relying on. We will capture these
+‘Assumptions’ on a board for later organization and analysis.
+
+
+#### [Start a Back-burner Board](../Exercises/back-burner.md) *(10min)*
+
+We will also be generating a lot of ideas throughout the week. Some of the ideas
+will be pertinent to the tasks at hand, but others, although interesting, won’t
+be. We will capture these good but not immediately relevant ‘back-burner ideas’
+on a sticky note board.
+
+#### [Pitch Practice](../Exercises/pitch-practice.md) *(15min)*
+
+The product owner should walk the sprint team through the business opportunity
+and market. The repetition of this process throughout the design sprint helps to
+reinforce an understanding of the essential value of the product.
 
 #### Existing research *(10min)*
 
